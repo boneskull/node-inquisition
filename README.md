@@ -1,4 +1,5 @@
-node-inquisition
-================
+# node-inquisition
 
-Not sure, but nobody expects it, anyway.
+Not sure where this is going.
+ 
+Our weapons of choice include [esprima](http://esprima.org)!
